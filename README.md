@@ -2,7 +2,6 @@
 This repository contains the analysis code used in a patent landscape study of technologies related to surgical nursing.
 ## Analyses
 The repository includes Python code for:
-- Thematic analysis and visualization
 - IPC classification and co-occurrence network analysis
 - Patent citation network analysis
 ## Analysis Environment
